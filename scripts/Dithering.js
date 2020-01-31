@@ -69,4 +69,4 @@ sampled = R.div( R.round(R.mul(R.add(sampled,ditherResult ), R.val(_ColourDepth)
 // }
 
 
-blurMat.setTexture(sampled, {textureSlotName: "diffuseTexture"});
+//blurMat.setTexture(sampled, {textureSlotName: "diffuseTexture"});
